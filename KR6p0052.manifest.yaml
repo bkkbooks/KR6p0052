@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6p0052/v1
+canonical_location: https://kanripo.org/bkk/KR6p0052/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 淨土境觀要門
+  identifiers:
+    alt_id:
+    - T47n1971
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1971.xml
+    old_id: T47n1971
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0052_000.yaml, hash: 'sha256:ad7752841a4ccb68bcda70114d915f40ca2462cbb5394b61408f0c50a6f25d61'}
+  - {seq: 1, filename: KR6p0052_001.yaml, hash: 'sha256:18af175b16f287efb3952696bdff7e816c62d3db81b9e3c3d3c3cd7d4636a908'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6p0052_001.markers.yaml, hash: 'sha256:9caa0064a785b90b9c02576d331271e521f2c79292fb76fae7bac44dbe7568cd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0052_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3113
+  label: 淨土境觀要門
+  type: juan
+  level: 1
+hash: sha256:edca7129153391e1bcc4f20221221540695bcb80e0ef8b13b9f3a0a1875fe9ec
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T

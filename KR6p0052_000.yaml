@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6p0052/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 淨土境觀要門
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T47/T47n1971.xml
+    old_id: T47n1971
+hash: sha256:ad7752841a4ccb68bcda70114d915f40ca2462cbb5394b61408f0c50a6f25d61
