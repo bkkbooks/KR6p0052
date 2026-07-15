@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0052/v1
 canonical_location: https://kanripo.org/bkk/KR6p0052/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 淨土境觀要門
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6p0052_000.yaml, hash: 'sha256:ad7752841a4ccb68bcda70114d915f40ca2462cbb5394b61408f0c50a6f25d61'}
-  - {seq: 1, filename: KR6p0052_001.yaml, hash: 'sha256:869a7dbdef3dfcc7f15cd3d21bfb93bbcee83e7e6d1cbe04f158f34b891da9b2'}
+  - {seq: 1, filename: KR6p0052_001.yaml, hash: 'sha256:71008c49d2fa101fcd0708fb1f9ea25343ef0087063a1ffeb081d9dc29b18f8e'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0052_000.markers.yaml, hash: 'sha256:bfa247a71c25fd874a2e16c1e645d2d2358553793c612dfaabef8e20d6652962'}
-  - {seq: 1, role: markers, filename: assets/KR6p0052_001.markers.yaml, hash: 'sha256:6c9034ffc270f14dfa2722d51521694d8355dd2dab3430c45336bb5d0df202f5'}
+  - {seq: 1, role: markers, filename: assets/KR6p0052_001.markers.yaml, hash: 'sha256:c1ad88d51f8404ee084ec3c19c4d2fc189d659dc70732a1df78cce6f2e795ddb'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 淨土境觀要門
   type: juan
   level: 1
-hash: sha256:3a6ad3cccdd31620ae945e698ab22086006d111fb97860f996e9b8f28ef5456a
+hash: sha256:7765f85f5c2623af2f9acf30284c5fd4b792705a25849873ef0928f4f6b54486
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
